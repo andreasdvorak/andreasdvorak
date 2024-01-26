@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ad-software
+- 👋 Hi, I’m Andreas Dvorak
 - 👀 I’m interested in Kubernetes, Cloud and Python
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
