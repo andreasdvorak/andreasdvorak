@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Andreas Dvorak
 - 👀 I’m interested in Automation, Monitoring, Kubernetes, Cloud and Python
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 ad-software/ad-software is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
